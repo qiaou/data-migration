@@ -1,0 +1,4 @@
+# test.yml
+config:
+  configFiles:
+    - "classpath:*.yaml"
